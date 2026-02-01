@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "AdBoost",
+  "version": "1.0",
+  "description": "AdBoost is the only browser extension that adds ads to web pages.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
