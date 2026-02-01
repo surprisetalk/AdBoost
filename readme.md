@@ -1,12 +1,12 @@
-![gwern.net](./screenshot-4.jpeg)
+![wikipedia.org](./screenshots/4.jpeg)
 
-![gwern.net](./screenshot-2.jpeg)
+![gwern.net](./screenshots/2.jpeg)
 
-![wikipedia.org](./screenshot-1.jpeg)
+![wikipedia.org](./screenshots/1.jpeg)
 
-![taylor.town](./screenshot-3.jpeg)
+![taylor.town](./screenshots/3.jpeg)
 
-![gwern.net](./screenshot-5.jpeg)
+![gwern.net](./screenshots/5.jpeg)
 
 # AdBoost
 
