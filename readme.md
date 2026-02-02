@@ -1,4 +1,6 @@
-![wikipedia.org](./screenshots/4.jpeg)
+![news.ycombinator.com](./screenshots/6.jpeg)
+
+![marginal revolution](./screenshots/5.jpeg)
 
 ![gwern.net](./screenshots/2.jpeg)
 
@@ -6,7 +8,7 @@
 
 ![taylor.town](./screenshots/3.jpeg)
 
-![gwern.net](./screenshots/5.jpeg)
+![wikipedia.org](./screenshots/4.jpeg)
 
 # AdBoost
 
